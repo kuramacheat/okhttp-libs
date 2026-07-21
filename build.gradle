@@ -1,5 +1,0 @@
-configurations.maybeCreate("default")
-artifacts {
-    add("default", file('okhttp-4.12.0.jar'))
-    add("default", file('okio-jvm-3.9.0.jar'))
-}
